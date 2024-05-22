@@ -7,71 +7,35 @@
 
 <a href="https://www.youtube.com/@AlmanaqueCode"><img src="https://cdn.discordapp.com/emojis/1006232573040668682.webp?size=128&quality=lossless" width="40"></a>
 
-## <img src="https://cdn.discordapp.com/emojis/775676038755516456.gif?size=128&quality=lossless" width="40"> **Programming Languages:**
+<br>
 
-</br>
-<p align="center">
-    &emsp;
-    <a href="#gh-dark-mode-only" style="border: none;">
-        <img alt="Lua" src="https://cdn.discordapp.com/emojis/900030567838523392.webp?size=128&quality=lossless" width="40">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only" style="border: none;">
-        <img alt="Python" src="https://cdn.discordapp.com/emojis/745084957587931277.webp?size=128&quality=lossless" width="40">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only" style="border: none;">
-        <img alt="Java" src="https://cdn.discordapp.com/emojis/930107140776022048.webp?size=128&quality=lossless" width="40">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only" style="border: none;">
-        <img alt="Kotlin" src="https://cdn.discordapp.com/emojis/786739706061914132.webp?size=128&quality=lossless" width="40">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only" style="border: none;">
-        <img alt="C++" src="https://cdn.discordapp.com/emojis/1242634029455511622.webp?size=128&quality=lossless" width="40">
-    </a>
-</p>
+## Language and Tools
 
-<p align="center">
-    &emsp;
-    <a href="#gh-light-mode-only" style="border: none;">
-        <img alt="Lua" src="https://cdn.discordapp.com/emojis/900030567838523392.webp?size=128&quality=lossless" width="40">
-    </a>
-    &emsp;
-    <a href="#gh-light-mode-only" style="border: none;">
-        <img alt="Python" src="https://cdn.discordapp.com/emojis/745084957587931277.webp?size=128&quality=lossless" width="40">
-    </a>
-    &emsp;
-    <a href="#gh-light-mode-only" style="border: none;">
-        <img alt="Java" src="https://cdn.discordapp.com/emojis/930107140776022048.webp?size=128&quality=lossless" width="40">
-    </a>
-    &emsp;
-    <a href="#gh-light-mode-only" style="border: none;">
-        <img alt="Kotlin" src="https://cdn.discordapp.com/emojis/786739706061914132.webp?size=128&quality=lossless" width="40">
-    </a>
-    &emsp;
-    <a href="#gh-light-mode-only" style="border: none;">
-        <img alt="C++" src="https://cdn.discordapp.com/emojis/1242634029455511622.webp?size=128&quality=lossless" width="40">
-    </a>
-</p>
+<img src="https://cdn.discordapp.com/emojis/1242669751537238187.gif?size=128&quality=lossless" min-width="325px" max-width="325px" width="325px" align="right" alt="Computador iuriCode">
 
+#### Main Stack:
+  [<img height="48px" width="48px" alt="Icone Lua" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/>](https://www.lua.org/)
+  [<img height="48px" width="48px" alt="Icone Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://www.python.org/)
+
+#### Studying in this moment:
+  [<img height="48px" width="48px" alt="Icone Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>](https://kotlinlang.org/)
+  [<img height="48px" width="48px" alt="Icone Java" src="https://cdn.discordapp.com/emojis/930107140776022048.webp?size=128&quality=lossless"/>](https://www.java.com/)
+  [<img height="48px" width="48px" alt="Icone C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>](https://isocpp.org/)
+
+#### Tools:
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
 ---
-
-<img align="right" width="38%" src="https://media.discordapp.net/stickers/1149375519507365940.webp?size=240"/>
-
-  <p align="center">
-  <a href="https://github.com/almanaq3">
+<div align="center" style="margin-bottom:200px">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=almanaq3&theme=radical&title_color=FFFFFF&text_color=FFFFFF&bg_color=090B1B&icon_color=FFFFFF&border_color=FFFFFF">
-  </a>
- </p>
- 
-  <p align="center">
-  <a href="https://github.com/almanaq3">
    <img width="430" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=almanaq3&layout=compact&theme=radical&langs_count=6&bg_color=090B1B&text_color=FFFFFF&title_color=FFFFFF">
-  </a>
- </p>
+</div>
+
 </a>
+
+<br>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almanaq3&theme=github-dark&point=ffffff&radius=16#gh-dark-mode-only"%20alt="GitHub%20Activity%20Graph")
