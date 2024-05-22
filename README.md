@@ -27,15 +27,13 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.discordapp.com/emojis/970425588298969219.webp?size=128&quality=lossless"/>](https://create.roblox.com)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=robloxstudio"/>](https://create.roblox.com)
 
 ---
-<div align="center" style="margin-bottom:200px">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=almanaq3&theme=radical&title_color=FFFFFF&text_color=FFFFFF&bg_color=090B1B&icon_color=FFFFFF&border_color=FFFFFF">
-   <img width="430" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=almanaq3&layout=compact&theme=radical&langs_count=6&bg_color=090B1B&text_color=FFFFFF&title_color=FFFFFF">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+   <img width="430" src="https://github-readme-stats.vercel.app/api?username=almanaq3&theme=radical&title_color=FFFFFF&text_color=FFFFFF&bg_color=090B1B&icon_color=FFFFFF&border_color=FFFFFF">
+   <img width="430" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=almanaq3&layout=compact&theme=radical&langs_count=6&bg_color=090B1B&text_color=FFFFFF&title_color=FFFFFF">
 </div>
-
-</a>
 
 <br>
 
