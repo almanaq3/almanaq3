@@ -27,6 +27,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://cdn.discordapp.com/emojis/970425588298969219.webp?size=128&quality=lossless"/>](https://create.roblox.com)
 
 ---
 <div align="center" style="margin-bottom:200px">
