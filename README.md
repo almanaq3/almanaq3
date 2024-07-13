@@ -19,7 +19,6 @@
 
 #### Studying in this moment:
   [<img height="48px" width="48px" alt="Icone Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>](https://kotlinlang.org/)
-  [<img height="48px" width="48px" alt="Icone Java" src="https://cdn.discordapp.com/emojis/930107140776022048.webp?size=128&quality=lossless"/>](https://www.java.com/)
   [<img height="48px" width="48px" alt="Icone C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>](https://isocpp.org/)
 
 #### Tools:
